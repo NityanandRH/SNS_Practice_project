@@ -2,4 +2,8 @@ pandas
 matplotlib
 numpy
 scikit-learn
+<<<<<<< HEAD
 jupyter
+=======
+jupyter notebook
+>>>>>>> a2f5a8512cdd25bd133aa8bba3cd5588c7102f8a
